@@ -1,0 +1,20 @@
+{
+  "itemList": [
+    {
+        "itemIcon": "\ue729",
+        "itemName": "Länd"
+      },
+      {
+          "itemIcon": "\ue72c",
+          "itemName": "Höjd"
+      },
+      {
+          "itemIcon": "\ue733",
+          "itemName": "Mått"
+      },
+      {
+          "itemIcon": "\ue72b",
+          "itemName": "Inställningar"
+      }
+  ]
+}
