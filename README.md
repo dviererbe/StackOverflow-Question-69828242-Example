@@ -1,6 +1,6 @@
 # Example solution for the [Stack Overflow Question 69828242](https://stackoverflow.com/questions/69828242/how-to-pass-none-english-letters-to-json)
 
-This solution demonstrated how to use the [System.Text.Json.JsonSerializer](https://docs.microsoft.com/en-us/dotnet/api/system.text.json.jsonserializer?view=net-6.0)
+This solution demonstrates how to use the [System.Text.Json.JsonSerializer](https://docs.microsoft.com/en-us/dotnet/api/system.text.json.jsonserializer?view=net-6.0)
 to deserialize an json string that is encoded with non ASCII Characters like `ä`, `ü`, `ö`, `ß` without the use of escaping (see [RFC 8259 Section 7](https://datatracker.ietf.org/doc/html/rfc8259#section-7)).
 
 ## TL;DR
